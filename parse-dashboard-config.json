@@ -1,0 +1,15 @@
+{"apps": [
+  {
+    "serverURL": "https://enjoy-nordic-tour.herokuapp.com/parse",
+    "appId": "enjoynordic123",
+    "masterKey": "xinxi08chg1234",
+    "appName": "enjoy-nordic-tour"
+  }
+  ],
+  "users": [
+  {
+    "user":"huiguangchu@gmail.com",
+    "pass":"xinxi08chg"
+  }
+  ]
+}
